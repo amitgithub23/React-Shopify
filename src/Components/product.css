@@ -1,0 +1,44 @@
+.product-body{
+    width: 98vw;
+    height: auto;
+    margin: auto; 
+    margin-bottom: 40px;
+}
+.product-body .heading{
+    text-align: center;
+    height: auto;
+    font-size: xx-large;
+    font-weight: 700;
+    color: rgb(57, 166, 166);
+    
+}
+.product-outline{
+
+   width: 100%;
+    padding-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+ justify-content: space-between;
+   
+  
+}
+.product-menu{
+    width: 100%;
+ 
+height: auto;
+
+ 
+}
+
+.product-content{
+
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+    justify-content: space-between;
+}
+.product-content{
+    width: 100%;
+
+}

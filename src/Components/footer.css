@@ -1,0 +1,37 @@
+.foot-outer{
+  width: 98vw;
+  height: auto;
+    margin: auto;
+}
+.footer-main{
+    
+    width: 100%;
+
+    background-color:  rgb(57, 166, 166);
+}
+
+
+th{
+margin: auto;
+text-align: left;
+   
+}
+table {
+    width: 95%;
+    height: 95%;
+text-align: start;
+ margin: auto;
+ padding-top: 20px;
+ color: white;
+margin-right: 10px;
+margin-left: auto;
+  
+  }
+  .foot-last{
+    margin-top: 10px;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 650;
+    color: rgb(57, 166, 166);
+    margin-bottom: 20px;
+  }

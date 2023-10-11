@@ -1,0 +1,80 @@
+.main-nav{
+  width: 98vw;
+  /* height: auto; */
+    margin: auto;
+    height: 80px;
+    /* height: auto; */
+    display: flex;
+    flex-wrap: wrap;
+  justify-content: space-between;
+
+
+    }
+    .nav{
+      display: flex;
+      flex-wrap: wrap;
+ 
+        background-color: rgb(220, 248, 248);
+    }
+    .searchbar{
+        display: flex;
+        width: 50%;
+        height: 40px;
+        margin-top: 15px;
+     
+    }
+    .nav-logo img{
+         margin-top: -10px;
+        height: 60px;
+        width: 100%;
+        margin-top: 5px;
+    }
+    .search-button {
+     
+        display: flex;
+   width: fit-content;
+        height: 40px;
+      
+        background-color: rgb(79, 190, 190);
+
+    }
+  
+    .lastpart {
+        justify-content: end;
+  display: flex;
+  width: 15%;
+  height: 60px;
+  gap: 25px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+    }
+    .lastpart p{
+  font-size: small;
+
+display: grid;
+place-items: center;
+  border-top: solid rgb(3, 103, 86) 1px;
+  border-bottom: solid  rgb(3, 103, 86) 1px;
+  
+    }
+.cart{
+
+   border-radius: 50%;
+line-height: 60px;
+   border: solid rgb(5, 62, 52) 2px;
+margin-bottom: 10px;
+width: 50px;
+background-color: rgb(79, 190, 190);
+
+}
+.cart-logo{
+    font-size: x-large;
+  
+}
+:hover.cart-logo{
+ scale: 1.1;
+ 
+}
+:hover.cart{
+    scale: 1.1;
+}

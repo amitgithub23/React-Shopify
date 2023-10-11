@@ -1,0 +1,112 @@
+.main-home{
+    
+   
+  width: 98vw;
+  margin: auto;
+    height: auto;
+
+/* height: auto; */
+margin-bottom: 50px;
+  margin-top: 40px;
+
+
+}
+.main-2{
+ width: 95%;
+ margin-left: 25px;
+ /* margin-right: 40px; */
+  display: flex;
+  flex-wrap: wrap;
+justify-content: space-between;
+}
+.right{
+width: 55%;
+display: flex;
+flex-wrap: wrap;
+}
+.heading{
+  padding-top: 20px;
+  font-weight: 600;
+  font-size:larger;
+  color: rgb(96, 91, 91);
+  padding-bottom: 10px;
+}
+.right span{
+
+  font-size: 50px;
+  font-weight: bold;
+color: rgb(57, 166, 166);
+  font-family: 'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif; 
+  padding-bottom: 10px;}
+
+.right-last{
+  font-size: 20px;
+  color: rgb(129, 123, 123);
+  padding-bottom: 10px;
+}
+.left{
+
+  width: 40%;
+ 
+  
+}
+.left-i{
+  width: 100%;
+
+  border-radius: 20px;
+  box-shadow: 5px 10px #cbbebe;
+}
+
+.left:hover{
+  transform: scale(1.01); 
+  border-radius: 20px;
+  
+} 
+.button-last{
+  display: flex;
+
+margin-left: 200px;
+
+}
+
+.button-last button{
+
+width: 200px;
+height: 50px;
+border-radius: 20px;
+background-color: rgb(40, 129, 129);
+
+}
+.button-last span{
+ font-size: large;
+ color: white;
+}
+ 
+.button-last :hover{
+  scale: 1.1;
+}
+
+.last{
+   width: 100%;
+   width: auto;
+
+  display: flex;
+
+  flex-wrap: wrap;
+justify-content: space-between;
+border-top: solid gray 2px;
+border-bottom: solid gray 2px;
+} 
+
+.last p{
+
+text-align: center;
+display: flex;
+margin-top: 15px;
+margin-bottom: 15px;
+
+}
+.home-foot{
+  font-weight: 800;
+  color: rgb(60, 152, 152);
+}

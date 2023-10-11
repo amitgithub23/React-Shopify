@@ -1,0 +1,33 @@
+.menu-1{
+
+    width: 100%;
+margin: auto;
+
+height: auto;
+background-color:  rgb(204, 246, 246);
+   height: 40px;
+ 
+   border: solid green 4px;
+   padding-top: px;
+   border-radius: 5px;
+}
+ul{
+     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-size: 25px;
+ font-weight: 900;
+
+ 
+text-decoration: none;   list-style-type: none;
+}
+
+ul :hover{
+    scale: 1.1;
+    color: gray;
+}
+.link-style{
+    color: rgb(9, 125, 125);
+    text-decoration: none;
+    margin:15px
+}
